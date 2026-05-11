@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class MovieTicketBookingSystem {
     public static void main(String[] args){
         // Declare and initialize variables
